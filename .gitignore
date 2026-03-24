@@ -51,6 +51,14 @@ htmlcov/
 .pytest_cache/
 
 # ===============================
+# Secrets / Config with credentials
+# ===============================
+config.py
+secrets.py
+*.secret
+
+# ===============================
 # Misc
 # ===============================
 *.log
+*.jsonl
