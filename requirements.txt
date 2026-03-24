@@ -1,0 +1,11 @@
+flask
+flask-cors
+gunicorn
+numpy
+pandas
+scikit-learn
+faiss-cpu
+pymongo
+openai
+google-generativeai
+tqdm
